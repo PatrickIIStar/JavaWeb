@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+    /*background: cadetblue;*/
+
+}
+.input {
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #DBDBDB;
+    height: 25px;
+    width: 45px;
+}
+
+
+div{
+    margin: auto auto;
+    width: 255px;
+}
+
+td {
+    line-height: 54px;
+    text-align: center;
+}
+
+input{
+    border-radius: 15px 15px 15px 15px;
+    border: 1px solid saddlebrown;
+    height: 25px;
+}
+
+button,input:focus{
+    outline: none;
+}
+
+button{
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #DBDBDB;
+    height: 25px;
+    width: 45px;
+}
+

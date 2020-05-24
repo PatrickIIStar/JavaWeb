@@ -1,0 +1,38 @@
+@charset "UTF-8";
+table td {
+    height: 50px;
+    width: 140px;
+    border-bottom: 1px solid #999;
+    border-right: 1px solid #999;
+    text-align: center;
+}
+
+form {
+    position: absolute; /*绝对定位*/
+    text-align: center; /*(让div中的内容居中)*/
+    left: 37%;
+    margin-top: 5px;
+}
+
+.Sinput {
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #DBDBDB;
+    height: 25px;
+    width: 45px;
+}
+
+.Stable {
+    width: 80%;
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+    border-spacing: 0; /*去掉单元格间隙*/
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+.Stable2 {
+    width: 80%;
+    border-left: 1px solid #999;
+    border-spacing: 0; /*去掉单元格间隙*/
+    margin-left: 8%;
+}

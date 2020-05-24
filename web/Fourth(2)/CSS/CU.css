@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.input {
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #DBDBDB;
+    height: 25px;
+    width: 45px;
+    margin-left: 15%;
+}
+
+form {
+    position: absolute; /*绝对定位*/
+    text-align: center; /*(让div中的内容居中)*/
+    left: 480px;
+}
+
